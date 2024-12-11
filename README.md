@@ -16,7 +16,6 @@ This is the portfolio project of **Jerick G. Babasa**, showcasing my achievement
 This portfolio is built using:
 - **HTML** for structure
 - **CSS** for styling
-- **JavaScript** (in-browser) for interactivity
 
 The project is focused on creating a professional and responsive web-based portfolio.
 
