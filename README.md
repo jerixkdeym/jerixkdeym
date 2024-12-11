@@ -7,7 +7,6 @@ This is the portfolio project of **Jerick G. Babasa**, showcasing my achievement
 2. [Navigating the Portfolio](#navigating-the-portfolio)
 3. [Sustainable Development Goal (SDG)](#sustainable-development-goal-sdg)
 4. [Project Dependencies](#project-dependencies)
-5. [How to Run the Portfolio Locally](#how-to-run-the-portfolio-locally)
 
 ---
 
@@ -39,21 +38,3 @@ To switch between sections, use the navigation links in the header. The active s
 This portfolio emphasizes **SDG 4: Quality Education**. It highlights the importance of accessible and high-quality education in improving lives and empowering individuals. My goal is to contribute by creating easy-to-use educational tools and websites through my skills in IT and web development.
 
 ---
-
-## Project Dependencies
-
-The project has no external dependencies or libraries. It runs directly on any modern web browser without additional installations.
-
----
-
-## How to Run the Portfolio Locally
-
-1. **Download the Project Files**:
-   - Clone the repository from GitHub:
-     ```bash
-     git clone https://github.com/your-username/portfolio.git
-     ```
-   - Alternatively, download the project as a ZIP file and extract it.
-
-2. **File Structure**:
-3. 
