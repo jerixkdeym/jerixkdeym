@@ -1,17 +1,60 @@
-## Hi I am Jerick Babasa an IT student from Batangas State University - Alangilan
-Simpleng tao bagay tayo🫶🏻
+# Portfolio Project
 
-<!--
-**jerixkdeym/jerixkdeym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the portfolio project of **Jerick G. Babasa**, showcasing my achievements, skills, projects, and focus on Sustainable Development Goal (SDG) **Quality Education**.
 
-Here are some ideas to get you started:
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Navigating the Portfolio](#navigating-the-portfolio)
+3. [Sustainable Development Goal (SDG)](#sustainable-development-goal-sdg)
+4. [Project Dependencies](#project-dependencies)
+5. [How to Run the Portfolio Locally](#how-to-run-the-portfolio-locally)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Project Overview
+
+This portfolio is built using:
+- **HTML** for structure
+- **CSS** for styling
+- **JavaScript** (in-browser) for interactivity
+
+The project is focused on creating a professional and responsive web-based portfolio.
+
+---
+
+## Navigating the Portfolio
+
+1. **Home**: Introduction about Jerick G. Babasa, including a profile picture and a short bio.
+2. **Achievements**: A list of key milestones and recognitions.
+3. **Skills**: A showcase of professional and technical skills.
+4. **Projects**: Highlights of my IT projects with images.
+5. **SDG Focus**: Discussion on the importance of **Quality Education** and my contribution to this goal.
+6. **Contact**: Information to connect with me via phone, email, or social media.
+
+To switch between sections, use the navigation links in the header. The active section will be displayed while others remain hidden.
+
+---
+
+## Sustainable Development Goal (SDG)
+
+This portfolio emphasizes **SDG 4: Quality Education**. It highlights the importance of accessible and high-quality education in improving lives and empowering individuals. My goal is to contribute by creating easy-to-use educational tools and websites through my skills in IT and web development.
+
+---
+
+## Project Dependencies
+
+The project has no external dependencies or libraries. It runs directly on any modern web browser without additional installations.
+
+---
+
+## How to Run the Portfolio Locally
+
+1. **Download the Project Files**:
+   - Clone the repository from GitHub:
+     ```bash
+     git clone https://github.com/your-username/portfolio.git
+     ```
+   - Alternatively, download the project as a ZIP file and extract it.
+
+2. **File Structure**:
+3. 
