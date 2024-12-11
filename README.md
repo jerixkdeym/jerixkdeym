@@ -6,7 +6,6 @@ This is the portfolio project of **Jerick G. Babasa**, showcasing my achievement
 1. [Project Overview](#project-overview)
 2. [Navigating the Portfolio](#navigating-the-portfolio)
 3. [Sustainable Development Goal (SDG)](#sustainable-development-goal-sdg)
-4. [Project Dependencies](#project-dependencies)
 
 ---
 
@@ -38,3 +37,4 @@ To switch between sections, use the navigation links in the header. The active s
 This portfolio emphasizes **SDG 4: Quality Education**. It highlights the importance of accessible and high-quality education in improving lives and empowering individuals. My goal is to contribute by creating easy-to-use educational tools and websites through my skills in IT and web development.
 
 ---
+## https://github.com/jerixkdeym/jerixkdeym.git/
